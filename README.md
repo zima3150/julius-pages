@@ -10,18 +10,7 @@ julius-pages
 	</head>
 
 
-	<body>
-	  <main>
-	  	<h1>とりあえずサンプル</h1>
-	  </main>
-
-	<nav>
-	  <li></li>
-
-
-
-
-	</nav>
+	
 
 
 
@@ -34,7 +23,5 @@ julius-pages
 
 
 
-
-
-	</body>
+	<
 
